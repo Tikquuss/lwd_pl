@@ -107,7 +107,7 @@ if __name__ == "__main__":
         # Wandb 
         "use_wandb" : False,
         "wandb_entity" : "grokking_ppsp",
-        "wandb_project" : f"lerning_with_derivative",
+        "wandb_project" : f"learning_with_derivative",
         "group_name" : group_name,
 
         "group_vars" : None,

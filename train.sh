@@ -44,7 +44,7 @@ if [ $alpha_beta != $none ]; then
     group_name="${group_name}-alpha=${alpha}-beta=${beta}"
 fi
 wandb_entity="grokking_ppsp"
-wandb_project="lerning_with_derivative"
+wandb_project="learning_with_derivative"
 
 exp_id="${group_name}"
 

@@ -1,7 +1,7 @@
 ```bash
-git clone https://github.com/Tikquuss/lwd_grokking
+git clone https://github.com/Tikquuss/lwd_pl
 
-cd lwd_grokking
+cd lwd_pl
 
 pip install -r requirements.txt
 
